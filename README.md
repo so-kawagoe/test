@@ -5,4 +5,4 @@ Git
 Completed.
 
 Docker
-進捗(5/6)
+進捗(6/6)
