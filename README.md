@@ -6,3 +6,7 @@ Completed.
 
 Docker
 進捗(6/6)
+Completed.
+
+AWS
+進捗(0/2)
