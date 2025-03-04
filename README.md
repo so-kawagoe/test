@@ -9,4 +9,4 @@ Docker
 Completed.
 
 AWS
-進捗(0/2)
+進捗(1/2)
