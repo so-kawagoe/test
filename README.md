@@ -1,12 +1,16 @@
 # 研修用リポジトリ
 
-Git
+## Git
+
 進捗(5/5)
 Completed.
 
-Docker
+## Docker
+
 進捗(6/6)
 Completed.
 
-AWS
-進捗(1/2)
+## AWS
+
+進捗(2/2)
+Completed.
