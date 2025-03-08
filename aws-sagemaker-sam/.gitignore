@@ -1,0 +1,10 @@
+# Terraform関連
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# クレデンシャル関連
+*.tfvars
+*.tfvars.json
+.env
